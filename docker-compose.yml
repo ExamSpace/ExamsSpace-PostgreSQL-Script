@@ -5,9 +5,9 @@ services:
     env_file:
       - .env
     environment:
-      POSTGRES_USER: admin
+      POSTGRES_USER: kBxQltLZGPvRIBcHmtOH
       POSTGRES_DB: postgres
-      POSTGRES_PASSWORD: admin
+      POSTGRES_PASSWORD: r4osO3YeW1*Vae8GY6#L
       DATABASE_HOST: postgres
     volumes:
       - pddata:/var/lib/postgresql/data
